@@ -1,0 +1,21 @@
+.flag-section {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 1fr 1fr 1fr;  
+}
+
+
+.green {
+    background-color: green;
+    height: 30vh;  
+}
+
+.white {
+    background-color: white;
+    height: 30vh;
+}
+
+.green01 {
+    background-color: green;
+    height: 30vh;
+}
+
